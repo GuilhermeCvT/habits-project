@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um projeto que tem o objetivo de ajudar o usuário a marcar quais das suas principais atividades diárias ele já realizou e, também, registrar novas a cada dia.
 
+- [Visite o projeto online](https://guilhermecvt.github.io/habits-project/)
+
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT.

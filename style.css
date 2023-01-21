@@ -11,6 +11,11 @@ body {
   height: 100vh;
 }
 
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
 button {
   padding: 16px 24px;
   border-radius: 8px;
@@ -32,6 +37,8 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+
+  background-color: #09090a;
 
   padding: 48px;
 
@@ -55,7 +62,7 @@ input {
 #form-habits {
   display: flex;
 
-  padding: 182px 48px 48px;
+  padding: 200px 48px 48px;
   width: fit-content;
 }
 
